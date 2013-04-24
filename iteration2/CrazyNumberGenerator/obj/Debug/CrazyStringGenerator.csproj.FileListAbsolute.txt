@@ -1,0 +1,5 @@
+C:\CrazyNumberGenerator\iteration2\CrazyNumberGenerator\obj\Debug\CrazyStringGenerator.csprojResolveAssemblyReference.cache
+C:\CrazyNumberGenerator\iteration2\CrazyNumberGenerator\bin\Debug\CrazyNumberGenerator.dll
+C:\CrazyNumberGenerator\iteration2\CrazyNumberGenerator\bin\Debug\CrazyNumberGenerator.pdb
+C:\CrazyNumberGenerator\iteration2\CrazyNumberGenerator\obj\Debug\CrazyNumberGenerator.dll
+C:\CrazyNumberGenerator\iteration2\CrazyNumberGenerator\obj\Debug\CrazyNumberGenerator.pdb

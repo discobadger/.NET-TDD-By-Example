@@ -1,0 +1,7 @@
+C:\CrazyNumberGenerator\iteration1\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\CrazyNumberGenerator\iteration1\Tests\Tests\bin\Debug\Tests.dll
+C:\CrazyNumberGenerator\iteration1\Tests\Tests\bin\Debug\Tests.pdb
+C:\CrazyNumberGenerator\iteration1\Tests\Tests\bin\Debug\ConsoleApplication1.exe
+C:\CrazyNumberGenerator\iteration1\Tests\Tests\bin\Debug\ConsoleApplication1.pdb
+C:\CrazyNumberGenerator\iteration1\Tests\Tests\obj\Debug\Tests.dll
+C:\CrazyNumberGenerator\iteration1\Tests\Tests\obj\Debug\Tests.pdb
